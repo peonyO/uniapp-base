@@ -1,0 +1,22 @@
+{
+  "path": "pages/template/tabbar/index",
+  "style": {
+    "disableScroll": true,
+    "app-plus": {},
+    "h5": {},
+    "mp-weixin": {},
+    "mp-alipay": {},
+    "mp-baidu": {},
+    "mp-toutiao": {}
+  },
+  "#home": true,
+  "#config": {
+    "name": "首页面",
+    "author": "页面作者",
+    "description": "首页面",
+    "alias": "TEMPLATE_TABBAR"
+  },
+  "#subPackage": {
+    "root": "pages/template"
+  }
+}
